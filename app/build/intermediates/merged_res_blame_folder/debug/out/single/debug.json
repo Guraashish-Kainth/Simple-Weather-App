@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cloudy.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\cloudy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_clear_sky_night.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\clear_sky_night.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings_view.xml.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\layout\\activity_settings_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_light_rain.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\light_rain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_thunderstorm.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\thunderstorm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mist.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\mist.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_snow.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\snow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_display_data_shape.xml.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable\\display_data_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_clear_sky.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\clear_sky.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_light_rain_night.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\light_rain_night.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mist_night.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\mist_night.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rain.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\rain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cloud_night.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\cloud_night.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\home.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_snow_night.jpg.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\drawable-v24\\snow_night.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aikai\\AndroidStudioProjects\\SimpleWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

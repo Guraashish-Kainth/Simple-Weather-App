@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Simple Weather</string>
-    <string name="Location">package com.example.simpleweather.location</string>
-    <string name="Units">package com.example.simpleweather.units</string>
-</resources>

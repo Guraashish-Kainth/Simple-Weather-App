@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-<properties>
-<entry key="API Key">&amp;appid=a9f9914d1dc79d3e7cb7f9972fc49a0b</entry>
-<entry key="Base URL">http://api.openweathermap.org/data/2.5/weather?q=</entry>
-<entry key="Units Declaration">&amp;units=</entry>
-<entry key="Units">imperial</entry>
-<entry key="Location">Orlando</entry>
-</properties>

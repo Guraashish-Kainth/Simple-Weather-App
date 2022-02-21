@@ -1,0 +1,24 @@
+com/example/simpleweather/Weather.java
+ com.example.simpleweather.Weather
+com/example/simpleweather/Settings_View.java
+ com.example.simpleweather.Settings_View
+ com.example.simpleweather.Settings_View$1
+ com.example.simpleweather.Settings_View$2
+ com.example.simpleweather.Settings_View$3
+ com.example.simpleweather.Settings_View$4
+com/example/simpleweather/BuildConfig.java
+ com.example.simpleweather.BuildConfig
+com/example/simpleweather/Domain.java
+ com.example.simpleweather.Domain
+com/example/simpleweather/HttpsClient.java
+ com.example.simpleweather.HttpsClient
+ com.example.simpleweather.HttpsClient$1
+ com.example.simpleweather.HttpsClient$2
+com/example/simpleweather/Util.java
+ com.example.simpleweather.Util
+com/example/simpleweather/Service.java
+ com.example.simpleweather.Service
+com/example/simpleweather/MainActivity.java
+ com.example.simpleweather.MainActivity
+ com.example.simpleweather.MainActivity$1
+ com.example.simpleweather.MainActivity$2
