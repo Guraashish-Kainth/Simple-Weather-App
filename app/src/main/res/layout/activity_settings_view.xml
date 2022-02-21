@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Settings_View">
+
+    <ImageView
+        android:id="@+id/Background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:fadingEdge="vertical"
+        android:scaleType="centerCrop"
+        android:src="@drawable/home"
+        android:tint="#00FFFFFF"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="UseAppTint"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/Imperial"
+        android:layout_width="120dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:text="Imperial"
+        android:textColor="#FFFFFF"
+        app:backgroundTint="#000000"
+        app:layout_constraintStart_toEndOf="@+id/Units"
+        app:layout_constraintTop_toBottomOf="@+id/LocationInput" />
+
+    <Button
+        android:id="@+id/Metric"
+        android:layout_width="111dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="20dp"
+        android:text="Metric"
+        android:textColor="#FFFFFF"
+        app:backgroundTint="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toEndOf="@+id/Imperial"
+        app:layout_constraintTop_toBottomOf="@+id/changeLocation" />
+
+    <ImageButton
+        android:id="@+id/Back_Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginBottom="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/abc_vector_test" />
+
+    <EditText
+        android:id="@+id/Location"
+        android:layout_width="80dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:selectAllOnFocus="true"
+        android:shadowColor="#000000"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="3"
+        android:text="Location:"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.075"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="57dp" />
+
+    <EditText
+        android:id="@+id/Units"
+        android:layout_width="80dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:shadowColor="#000000"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="3"
+        android:text="Units:"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.078"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Location"
+        app:layout_constraintVertical_bias="0.04" />
+
+    <EditText
+        android:id="@+id/LocationInput"
+        android:layout_width="173dp"
+        android:layout_height="41dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:shadowColor="#000000"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="3"
+        android:text="Enter New Location"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toStartOf="@+id/changeLocation"
+        app:layout_constraintHorizontal_bias="0.111"
+        app:layout_constraintStart_toEndOf="@+id/Location"
+        tools:layout_editor_absoluteY="57dp" />
+
+    <Button
+        android:id="@+id/changeLocation"
+        android:layout_width="91dp"
+        android:layout_height="42dp"
+        android:text="Enter"
+        android:textColor="#FFFFFF"
+        app:backgroundTint="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.846"
+        app:layout_constraintStart_toEndOf="@+id/Location"
+        tools:layout_editor_absoluteY="57dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
